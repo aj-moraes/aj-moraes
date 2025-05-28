@@ -28,12 +28,11 @@ Python · Bash · Git · ArcGIS · Zeek · Wireshark · Splunk · Elastic Stack 
 ## 📂 Featured Projects (in progress)
 - 🕵️‍♂️ **[OSINT Toolkit](https://github.com/yourrepo)** – Scripts for automated open-source investigations
 - 🔐 **[Threat Intel Parser](https://github.com/yourrepo)** – Normalize and enrich cyber threat feeds
-- 📊 **[SIGINT Dashboard](https://github.com/yourrepo)** – Visualizing metadata for mock network traffic
+- 📊 **[SIGINT Dashboard](https://github.com/aj-moraes/SIGINT-Study-Guide)** – SIGINT Study Guide 
 
 ## 🎓 Certifications 
 - Artificial Intelligence Enablement (Booz Allen Hamilton)
 - Artificial Intelligence Foundational (Booz Allen Hamilton) 
-- [View all on Credly](https://www.credly.com/users/abe-moraes)
 
 ## 🌐 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/abe-moraes-jr/) · [GitHub](https://github.com/aj-moraes/) · [Credly](https://www.credly.com/users/abe-moraes)
