@@ -28,7 +28,7 @@ Python · Bash · Git · ArcGIS · Zeek · Wireshark · Splunk · Elastic Stack 
 ## 📂 Featured Projects (in progress)
 - 🕵️‍♂️ **[OSINT Toolkit](https://github.com/yourrepo)** – Scripts for automated open-source investigations
 - 🔐 **[Threat Intel Parser](https://github.com/yourrepo)** – Normalize and enrich cyber threat feeds
-- 📊 **[SIGINT Dashboard](https://github.com/aj-moraes/SIGINT-Study-Guide)** – SIGINT Study Guide 
+- 📊 **[Telecom Dashboard](https://github.com/aj-moraes/Telecom-Study-Guide)** – Telecom Study Guide 
 
 ## 🎓 Certifications 
 - Artificial Intelligence Enablement (Booz Allen Hamilton)
